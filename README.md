@@ -11,9 +11,9 @@ Basic Programming for Data Science and Data Visualization : สุภาภร�
 
 * Project DataViz
 
-  * [Project_DataViz](https://github.com/Supaporn-Bututham/data_viz_2022/blob/main/Project_DataViz.ipynb)
-    * แนะนำข้อมูลและออกแบบ Dashboard
+ * แนะนำข้อมูลและออกแบบ Dashboard
 
+  * [Project_DataViz](https://github.com/Supaporn-Bututham/data_viz_2022/blob/main/Project_DataViz.ipynb)
   
   * [Dashboard](https://datastudio.google.com/reporting/1ef02e55-7de5-42e0-829b-e283c5dfd02b/page/p_m597whyctc?fbclid=IwAR0WJEIgLYxmfjsYWSe0znL5GTEKEDZa0wzENli7LyvIr4FUOdiDZF-6cUk)
 
