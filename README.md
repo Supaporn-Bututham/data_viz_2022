@@ -9,9 +9,13 @@ Basic Programming for Data Science and Data Visualization : สุภาภร�
 
 3.นางสาววิกานดา หงษ์บุญมี 623020764-2
 
-* [Project_DataViz]  (https://github.com/Supaporn-Bututham/data_viz_2022/blob/main/Project_DataViz.ipynb)
-* [Dashboard] (https://datastudio.google.com/reporting/1ef02e55-7de5-42e0-829b-e283c5dfd02b/page/p_m597whyctc?fbclid=IwAR0WJEIgLYxmfjsYWSe0znL5GTEKEDZa0wzENli7LyvIr4FUOdiDZF-6cUk)
-* [ไฟล์นำเสนอ] (file:///C:/Users/Admin/Downloads/.pdf)
+* แนะนำข้อมูลและออกแบบ Dashboard
+    * [Project_DataViz]  (https://github.com/Supaporn-Bututham/data_viz_2022/blob/main/Project_DataViz.ipynb)
+
+* Dashboard
+    * [Dashboard] (https://datastudio.google.com/reporting/1ef02e55-7de5-42e0-829b-e283c5dfd02b/page/p_m597whyctc?fbclid=IwAR0WJEIgLYxmfjsYWSe0znL5GTEKEDZa0wzENli7LyvIr4FUOdiDZF-6cUk)
+
+
 
 # สอบ Final อาทิตย์สอบ
 ให้โจทย์ ศุกร์ที่ 8 เมษา ส่งงานก่อนวันจันทร์ที่ 11 เมษา
