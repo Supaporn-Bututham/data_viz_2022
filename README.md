@@ -9,8 +9,6 @@ Basic Programming for Data Science and Data Visualization : สุภาภร�
 
 3.นางสาววิกานดา หงษ์บุญมี 623020764-2
 
-* Project DataViz
-
  * แนะนำข้อมูลและออกแบบ Dashboard
 
   * [Project_DataViz](https://github.com/Supaporn-Bututham/data_viz_2022/blob/main/Project_DataViz.ipynb)
