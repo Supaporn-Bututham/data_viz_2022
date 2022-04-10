@@ -13,6 +13,7 @@ Basic Programming for Data Science and Data Visualization : สุภาภร�
   
   * [Dashboard](https://datastudio.google.com/reporting/1ef02e55-7de5-42e0-829b-e283c5dfd02b/page/p_m597whyctc?fbclid=IwAR0WJEIgLYxmfjsYWSe0znL5GTEKEDZa0wzENli7LyvIr4FUOdiDZF-6cUk)
 
+  * [ไฟล์นำเสนอ](file:///C:/Users/Admin/Downloads/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD-Project-%E0%B9%84%E0%B8%82%E0%B9%88%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7%20(2).pdf)
 
 
 # สอบ Final อาทิตย์สอบ
