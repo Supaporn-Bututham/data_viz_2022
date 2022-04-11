@@ -14,5 +14,8 @@ Basic Programming for Data Science and Data Visualization : สุภาภร�
   * [Dashboard](https://datastudio.google.com/reporting/1ef02e55-7de5-42e0-829b-e283c5dfd02b/page/p_m597whyctc?fbclid=IwAR0WJEIgLYxmfjsYWSe0znL5GTEKEDZa0wzENli7LyvIr4FUOdiDZF-6cUk)
 
 
-# สอบ Final อาทิตย์สอบ
-ให้โจทย์ ศุกร์ที่ 8 เมษา ส่งงานก่อนวันจันทร์ที่ 11 เมษา
+# Final Exam
+
+ * [แนะนำข้อมูลและออกแบบ Dashboard](https://github.com/Supaporn-Bututham/data_viz_2022/blob/main/Final_Exam.ipynb)
+
+ * [Dashboard](https://datastudio.google.com/reporting/ead91b08-e2e7-4d37-9c35-3a6e9c54f89a/page/9AEqC?s=sU-xjfkLv3Q)
