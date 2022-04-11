@@ -16,6 +16,6 @@ Basic Programming for Data Science and Data Visualization : สุภาภร�
 
 # Final Exam
 
- * [แนะนำข้อมูลและออกแบบ Dashboard](https://github.com/Supaporn-Bututham/data_viz_2022/blob/main/Final_Exam.ipynb)
+ * [Colab เตรียมข้อมูล](https://github.com/Supaporn-Bututham/data_viz_2022/blob/main/Final_Exam.ipynb)
 
  * [Dashboard](https://datastudio.google.com/reporting/ead91b08-e2e7-4d37-9c35-3a6e9c54f89a/page/9AEqC?s=sU-xjfkLv3Q)
